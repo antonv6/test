@@ -1,2 +1,2 @@
 def foo()
-    print b
+    print c
